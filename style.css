@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Acme', sans-serif;
+}
+
+body{
+    background-color: rgb(1, 51, 16);
+}
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+h1{
+    margin: 30px;
+    text-shadow: 5px 0 white;
+    font-size: 6rem;
+    color: #f6b93b;
+}
+p{
+    font-size: 2rem; color: rgb(82, 82, 194); text-shadow: 1px 1px white;
+}
+button{
+    padding: 10px;
+    background-color: rgb(83, 11, 11);
+    color:white;
+}
